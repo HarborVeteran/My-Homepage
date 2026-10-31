@@ -9,6 +9,7 @@ venue: 'COML 2025 - Conference on Machine Learning (Oral presentation)'
 slidesurl: 'http://yourwebsite.com/files/slides-ipsum-lorem.pdf'
 paperurl: 'https://openreview.net/forum?id=example123'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-ipsum-lorem.bib'
+codeurl: 'https://github.com/HarborVeteran/ipsum-lorem-all-you-need'
 citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need." <i>COML 2025 - Conference on Machine Learning</i>.'
 ---
 The camera-ready submission is due on 2025-12-09 (11:59pm AoE). At least one author must register for the conference with the 'Conference' option (the 'Virtual Pass' alone is not sufficient).
