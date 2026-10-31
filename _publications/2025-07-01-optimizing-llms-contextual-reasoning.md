@@ -9,7 +9,6 @@ venue: 'Accepted at COAI 2025 - Conference on Artificial Intelligence'
 slidesurl: 'http://yourwebsite.com/files/slides-optimizing-llms.pdf'
 paperurl: 'https://example.com/coai-paper'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-optimizing-llms.bib'
-codeurl: 'https://github.com/HarborVeteran/optimizing-llms-contextual-reasoning'
 citation: 'John Smith, et al. (2025). "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments." <i>Accepted at COAI 2025 - Conference on Artificial Intelligence</i>.'
 ---
 The camera-ready submission is due on 2025-12-12 at 11:59 PM AOE. At least one author must register for the conference.
